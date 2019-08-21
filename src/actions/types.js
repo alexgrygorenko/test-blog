@@ -1,0 +1,11 @@
+export const GET_POSTS = 'GET_POSTS';
+export const POST_ERROR = 'POST_ERROR';
+export const ADD_POST = 'ADD_POST';
+export const DELETE_POST = 'DELETE_POST';
+export const SET_CURRENT = 'SET_CURRENT';
+export const UPDATE_POST = 'UPDATE_POST';
+export const CLEAR_CURRENT = 'CLEAR_CURRENT';
+export const GET_POST = 'GET_POST';
+export const ADD_COMMENT = 'ADD_COMMENT';
+export const SET_ALERT = 'SET_ALERT';
+export const REMOVE_ALERT = 'REMOVE_ALERT';
